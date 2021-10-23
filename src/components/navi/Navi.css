@@ -1,0 +1,37 @@
+#elma{
+    position: absolute;
+
+    right :0px;
+    
+    width: 180px;
+
+   
+}
+
+#shoes{
+    position: absolute;
+    top : 0px;
+    right :50%;
+    
+
+
+   
+}
+
+.filter-button {
+    font-size: 18px;
+    border: 1px solid #FFA500;
+    border-radius: 5px;
+    text-align: center;
+    color: #FFA500;
+    margin-bottom: 30px
+}
+
+.filter-button:hover {
+    font-size: 18px;
+    border: 1px solid #FFA500;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #FFA500
+}
